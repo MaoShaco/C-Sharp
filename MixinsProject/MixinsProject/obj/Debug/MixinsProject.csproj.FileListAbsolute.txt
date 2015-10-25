@@ -4,3 +4,9 @@ Q:\Programming\Projects\Visual Studio\MixinsProject\MixinsProject\bin\Debug\Mixi
 Q:\Programming\Projects\Visual Studio\MixinsProject\MixinsProject\bin\Debug\MixinsProject.pdb
 Q:\Programming\Projects\Visual Studio\MixinsProject\MixinsProject\obj\Debug\MixinsProject.exe
 Q:\Programming\Projects\Visual Studio\MixinsProject\MixinsProject\obj\Debug\MixinsProject.pdb
+Q:\Programming\Projects\Visual Studio\MixIn\MixinsProject\MixinsProject\bin\Debug\MixinsProject.exe.config
+Q:\Programming\Projects\Visual Studio\MixIn\MixinsProject\MixinsProject\obj\Debug\MixinsProject.exe
+Q:\Programming\Projects\Visual Studio\MixIn\MixinsProject\MixinsProject\obj\Debug\MixinsProject.pdb
+Q:\Programming\Projects\Visual Studio\MixIn\MixinsProject\MixinsProject\bin\Debug\MixinsProject.exe
+Q:\Programming\Projects\Visual Studio\MixIn\MixinsProject\MixinsProject\bin\Debug\MixinsProject.pdb
+Q:\Programming\Projects\Visual Studio\MixIn\MixinsProject\MixinsProject\obj\Debug\MixinsProject.csprojResolveAssemblyReference.cache

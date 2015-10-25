@@ -43,10 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AreaOccupies\Territory.cs" />
+    <Compile Include="AreaOccupies\Territory\CircleTerritory.cs" />
+    <Compile Include="AreaOccupies\Territory\SquareTerritory.cs" />
     <Compile Include="AreaOccupies\AreaMixins\Architect.cs" />
     <Compile Include="AreaOccupies\ISquareable.cs" />
     <Compile Include="AreaOccupies\House.cs" />
+    <Compile Include="AreaOccupies\Territory\ITerritory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
