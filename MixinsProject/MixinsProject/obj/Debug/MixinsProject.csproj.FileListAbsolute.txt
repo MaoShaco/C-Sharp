@@ -1,0 +1,6 @@
+Q:\Programming\Projects\Visual Studio\MixinsProject\MixinsProject\bin\Debug\MixinsProject.exe.config
+Q:\Programming\Projects\Visual Studio\MixinsProject\MixinsProject\obj\Debug\MixinsProject.csprojResolveAssemblyReference.cache
+Q:\Programming\Projects\Visual Studio\MixinsProject\MixinsProject\bin\Debug\MixinsProject.exe
+Q:\Programming\Projects\Visual Studio\MixinsProject\MixinsProject\bin\Debug\MixinsProject.pdb
+Q:\Programming\Projects\Visual Studio\MixinsProject\MixinsProject\obj\Debug\MixinsProject.exe
+Q:\Programming\Projects\Visual Studio\MixinsProject\MixinsProject\obj\Debug\MixinsProject.pdb
